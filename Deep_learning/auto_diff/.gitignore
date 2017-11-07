@@ -1,1 +1,3 @@
 auto-diff-dataset
+output.npy
+train_loss.npy
